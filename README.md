@@ -1,6 +1,6 @@
 # 🎨 Schema Illustrator Studio
 
-[![CI](https://github.com/1nc0gn30/schema-illustrator-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/1nc0gn30/schema-illustrator-studio/actions/workflows/ci.yml)
+[![CI](https://github.com/NullAITech/schema-illustrator-studio/actions/workflows/ci.yml/badge.svg)](https://github.com/NullAITech/schema-illustrator-studio/actions/workflows/ci.yml)
 [![Python 3.9–3.13](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Zero Runtime Dependencies](https://img.shields.io/badge/dependencies-0%20runtime%20deps-brightgreen.svg)](pyproject.toml)
@@ -70,7 +70,7 @@ flowchart TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/1nc0gn30/schema-illustrator-studio.git
+git clone https://github.com/NullAITech/schema-illustrator-studio.git
 cd schema-illustrator-studio
 
 # Install in editable mode
